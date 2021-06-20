@@ -1,0 +1,22 @@
+
+
+.iframe-video{
+    width: 1903px;
+    height: 786px;
+}
+
+@media screen and (max-width: 480px) {
+    .iframe-video{
+        width: 360px;
+        height: 380px;
+    }
+ }
+
+ 
+
+@media screen and (max-width: 330px) {
+    .iframe-video{
+        width: 310px;
+        height: 380px;
+    }
+ }

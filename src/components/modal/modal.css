@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.buy-btn{
+    text-align: center;
+    justify-content: center;
+    /* display: flex */
+    background-color: #f1f1f0;
+    border-radius: 30px;
+    width: 300px;
+    height: 60px;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 8x;
+    font-weight: 700;
+    font-size: 19px;
+    cursor: pointer;
+    transition: 1s;
+    border-style: solid;
+    color: #f2461e;
+    border-color: #f2461e;
+    font-weight: 1000 !important
+}
+
+.modal-img{
+    width: 100px
+}
+
+.text-field{
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.buy-btn:hover{
+    background-color: rgb(255, 255, 255);
+    color: #f2461e
+}
+
+.maga-cal{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.maga-para{
+    font-family: 'Montserrat', sans-serif;
+
+}

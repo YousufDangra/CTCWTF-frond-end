@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.metamask-btn{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    background-color: white;
+    border-radius: 30px;
+    width: 300px;
+    height: 60px;
+    margin-bottom: 20px;
+    color: #f2461e !important;
+    border-color: #f2461e;
+    font-weight: 1000 !important;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15px;
+    cursor: pointer;
+    transition: 0.5s
+}
+
+.metamask-btn:hover{
+    border-color: #e2330b;
+    color: #e2330b;
+}
+
+.metamask-btn-img{
+    width: 50px;
+    margin-right: 7px
+}
+
+.trustwallet-btn{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 30px;
+    background-color: white;
+    width: 300px;
+    height: 60px;
+    color: #f2461e !important;
+    border-color: #f2461e;
+    font-weight: 1000 !important;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15px;
+    cursor: pointer;
+    transition: 0.5s
+
+}
+
+.trustwallet-btn:hover{
+    border-color: #e2330b;
+    color: #e2330b;
+}
+.trustwallet-btn-img{
+    width: 50px;
+    margin-right: 7px;
+    height: 45px;
+    margin-top: 5px
+
+}
